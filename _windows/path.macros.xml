@@ -1,5 +1,10 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="C:\Users\Ami2HfaeQ\.AndroidStudioPreview3.2\config\plugins\Kotlin\kotlinc" />
+    <macro name="CLASS" value="C:/Program Files/Java/jdk-9.0.4/bin" />
+    <macro name="GRADLE_HOME" value="C:/Program Files/Android/Android Studio/gradle" />
+    <macro name="JAVA_HOME" value="C:/Program Files/Java/jdk-9.0.4/bin" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\a.faegh\.AndroidStudio3.1\config\plugins\Kotlin\kotlinc" />
+    <macro name="NDK_BUNDLED" value="D:/Android/Sdk/ndk-bundle" />
+    <macro name="SDK_HOME" value="D:/Android/Sdk" />
   </component>
 </application>
