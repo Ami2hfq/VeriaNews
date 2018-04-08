@@ -1,33 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="com.bluecatcode.junit:junit-4.10-extended:1.0.4" type="repository">
-      <properties maven-id="com.bluecatcode.junit:junit-4.10-extended:1.0.4" />
+    <library name="lib" type="kotlin.js">
       <CLASSES>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10-extended-1.0.4.jar!/" />
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10.jar!/" />
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/hamcrest-core-1.1.jar!/" />
+        <root url="file://D:/Projects&amp;RepoZ/android_Studio_WorKsw/sh-recolour.apk/lib" />
       </CLASSES>
-      <JAVADOC>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10-extended-1.0.4-javadoc.jar!/" />
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10-extended-1.0.4-sources.jar!/" />
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/junit-4.10-sources.jar!/" />
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/hamcrest-core-1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="com.google.code.gson:gson:2.8.2" type="repository">
-      <properties maven-id="com.google.code.gson:gson:2.8.2" />
-      <CLASSES>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/gson-2.8.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/gson-2.8.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://D:/GolDenGroUp/feed.vpico.com.khabaresaneveria/lib/gson-2.8.2-sources.jar!/" />
-      </SOURCES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>

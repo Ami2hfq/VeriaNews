@@ -1,0 +1,14 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="C File Header.h" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <code_templates>
+      <template name="Groovy JUnit TearDown Method.groovy" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+    <j2ee_templates>
+      <template name="AndroidManifest.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Remote_Interface.aidl" reformat="true" live-template-enabled="true" enabled="true" />
+    </j2ee_templates>
+  </component>
+</application>
